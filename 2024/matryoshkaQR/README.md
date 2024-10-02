@@ -12,7 +12,7 @@ exiftool qrcode.png
 # looks okay, open it with phone camera, it shows bytes for what looks like a png
 
 # use python to encode back into the png
-python encode.png
+python encode.py
 
 # open png, another barcode, use phone camera to show flag value
 
