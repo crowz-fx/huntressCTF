@@ -1,6 +1,7 @@
 # Whamazon
 
 ## Steps
+
 ```bash
 # spin up instance, it's a web terminal
 
@@ -10,6 +11,7 @@
 ```
 
 ## Flag
+
 ```
 flag{18bdd83cee5690321bb14c70465d3408}
 ```

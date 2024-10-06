@@ -1,6 +1,7 @@
 # Red Phish Blue Phish
 
 ## Steps
+
 ```bash
 # spin up instance
 # note -C is crucial, need the open-bsd version of nc, not the other one otherwise
@@ -21,6 +22,7 @@ nc -C -vvv challenge.ctf.games 30698
 ```
 
 ### Input (raw paste)
+
 ```
 EHLO pyrchdata.com
 MAIL FROM: jdaveren@pyrchdata.com
@@ -31,6 +33,7 @@ DATA
 ```
 
 ## Example
+
 ```bash
 nc -C -vvvv challenge.ctf.games 30698
 Connection to challenge.ctf.games (35.193.148.143) 30698 port [tcp/*] succeeded!
@@ -52,6 +55,7 @@ DATA
 ```
 
 ## Flag
+
 ```
 flag{54c6ec05ca19565754351b7fcf9c03b2}
 ```

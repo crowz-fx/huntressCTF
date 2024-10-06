@@ -1,6 +1,7 @@
 # Malibu
 
 ## Steps
+
 ```bash
 # spin up instance and connect
 nc -vvv challenge.ctf.games 30606
@@ -24,7 +25,9 @@ python enumerate.py
 ```
 
 ## Output
+
 ### Initial nc
+
 ```
 Connection to challenge.ctf.games (35.193.148.143) 30606 port [tcp/*] succeeded!
 GET /bucket HTTP/1.1
@@ -52,6 +55,7 @@ Date: Sat, 05 Oct 2024 19:23:56 GMT
 ```
 
 ## Flag
+
 ```
 
 ```

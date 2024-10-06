@@ -1,7 +1,7 @@
 # MatryoshkaQR
 
-
 ## Steps
+
 ```bash
 wget https://huntress.ctf.games/files/53881786dd23c23cb50807b8361e4582/qrcode.png
 
@@ -19,6 +19,7 @@ python encode.py
 ```
 
 ## Flag
+
 ```
 flag{01c6e24c48f48856ee3adcca00f86e9b}
 ```
