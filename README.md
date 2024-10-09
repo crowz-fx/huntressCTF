@@ -15,4 +15,6 @@ Go back and complete or to actually do
 - [mimi](2024/mimi/) - need to run in VM with other tools not on a laptop lol
 - [system_code](2024/system_code.md) - need to do some more digging
 - [ran_somewhere](2024/ran_somewhere/) - missing the final key of where the damn thing is lol
-
+- [zimmer_down](2024/zimmer_down/) - mising the key or what to get 'out' of it
+- [base-p-](2024/base-p-/) - not a clue, need to read up on encodings and what to do
+- [gocrackme1](2024/gocrackme1/) - i need go installed perhaps? needs more digging
