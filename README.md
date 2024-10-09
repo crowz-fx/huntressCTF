@@ -14,3 +14,5 @@ Go back and complete or to actually do
 - [oceanlocust](2024/oceanlocust/) - need to decompile and step through
 - [mimi](2024/mimi/) - need to run in VM with other tools not on a laptop lol
 - [system_code](2024/system_code.md) - need to do some more digging
+- [ran_somewhere](2024/ran_somewhere/) - missing the final key of where the damn thing is lol
+
