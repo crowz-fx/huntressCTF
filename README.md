@@ -21,3 +21,4 @@ Go back and complete or to actually do
 - [finders_fee](2024/finders_fee.md) - not properly looked at yet
 - [gocrackme2](2024/gocrackme2/) - do more digging like gocrackme1
 - [gocrackme3](2024/gocrackme3/) - do more digging like gocrackme2
+- [x-ray](2024/xray/) - need to do some more digging
