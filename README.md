@@ -9,7 +9,7 @@ Go back and complete or to actually do
 ### 2024
 
 - [russian_roulette](2024/russian_roulette/) - need to finish the deobs
-- [nightmare_on_hunt_street](2024/nightmare_on_hunt_street/) - need to finish last 2, being an idiot and missing some key things
+- [nightmare_on_hunt_street](2024/nightmare_on_hunt_street/) - need to finish last 1, something dumb with the counts
 - [malibu](2024/malibu/) - missing the final 'key', are the files b64 or nah, is it the keys?! will sleep on it
 - [oceanlocust](2024/oceanlocust/) - need to decompile and step through
 - [mimi](2024/mimi/) - need to run in VM with other tools not on a laptop lol
@@ -22,3 +22,4 @@ Go back and complete or to actually do
 - [gocrackme2](2024/gocrackme2/) - do more digging like gocrackme1
 - [gocrackme3](2024/gocrackme3/) - do more digging like gocrackme2
 - [x-ray](2024/xray/) - need to do some more digging
+- [litte_shop_of_hashes](2024/little_shop_of_hashes/) - missing the last one, again something dumb

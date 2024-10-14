@@ -1,0 +1,955 @@
+Record 102973
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Eventlog",
+          "Guid": "{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"
+        }
+      },
+      "EventID": 104,
+      "Version": 1,
+      "Level": 4,
+      "Task": 104,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:23:06.763917Z"
+        }
+      },
+      "EventRecordID": 102973,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 1160,
+          "ThreadID": 3484
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-1315585081-1223704089-1502122752-500"
+        }
+      }
+    },
+    "UserData": {
+      "LogFileCleared": {
+        "#attributes": {
+          "xmlns": "http://manifests.microsoft.com/win/2004/08/windows/eventlog"
+        },
+        "SubjectUserName": "Administrator",
+        "SubjectDomainName": "EC2AMAZ-DMS53EU",
+        "Channel": "System",
+        "BackupPath": "",
+        "ClientProcessId": 4140,
+        "ClientProcessStartKey": 134545038867697750
+      }
+    }
+  }
+}
+Record 102974
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Eventlog",
+          "Guid": "{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"
+        }
+      },
+      "EventID": 104,
+      "Version": 1,
+      "Level": 4,
+      "Task": 104,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:23:07.545246Z"
+        }
+      },
+      "EventRecordID": 102974,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 1160,
+          "ThreadID": 3484
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-1315585081-1223704089-1502122752-500"
+        }
+      }
+    },
+    "UserData": {
+      "LogFileCleared": {
+        "#attributes": {
+          "xmlns": "http://manifests.microsoft.com/win/2004/08/windows/eventlog"
+        },
+        "SubjectUserName": "Administrator",
+        "SubjectDomainName": "EC2AMAZ-DMS53EU",
+        "Channel": "Windows Networking Vpn Plugin Platform/Operational",
+        "BackupPath": "",
+        "ClientProcessId": 7072,
+        "ClientProcessStartKey": 134545038867697782
+      }
+    }
+  }
+}
+Record 102975
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Eventlog",
+          "Guid": "{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"
+        }
+      },
+      "EventID": 104,
+      "Version": 1,
+      "Level": 4,
+      "Task": 104,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:23:07.576499Z"
+        }
+      },
+      "EventRecordID": 102975,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 1160,
+          "ThreadID": 3484
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-1315585081-1223704089-1502122752-500"
+        }
+      }
+    },
+    "UserData": {
+      "LogFileCleared": {
+        "#attributes": {
+          "xmlns": "http://manifests.microsoft.com/win/2004/08/windows/eventlog"
+        },
+        "SubjectUserName": "Administrator",
+        "SubjectDomainName": "EC2AMAZ-DMS53EU",
+        "Channel": "Windows Networking Vpn Plugin Platform/OperationalVerbose",
+        "BackupPath": "",
+        "ClientProcessId": 5652,
+        "ClientProcessStartKey": 134545038867697784
+      }
+    }
+  }
+}
+Record 102976
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Eventlog",
+          "Guid": "{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}"
+        }
+      },
+      "EventID": 104,
+      "Version": 1,
+      "Level": 4,
+      "Task": 104,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:23:07.623359Z"
+        }
+      },
+      "EventRecordID": 102976,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 1160,
+          "ThreadID": 3484
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-1315585081-1223704089-1502122752-500"
+        }
+      }
+    },
+    "UserData": {
+      "LogFileCleared": {
+        "#attributes": {
+          "xmlns": "http://manifests.microsoft.com/win/2004/08/windows/eventlog"
+        },
+        "SubjectUserName": "Administrator",
+        "SubjectDomainName": "EC2AMAZ-DMS53EU",
+        "Channel": "Windows PowerShell",
+        "BackupPath": "",
+        "ClientProcessId": 2292,
+        "ClientProcessStartKey": 134545038867697786
+      }
+    }
+  }
+}
+Record 102977
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:24:02.471533Z"
+        }
+      },
+      "EventRecordID": 102977,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "AppX Deployment Service (AppXSVC)",
+      "param2": "stopped",
+      "Binary": "41007000700058005300760063002F0031000000"
+    }
+  }
+}
+Record 102978
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:25:38.680425Z"
+        }
+      },
+      "EventRecordID": 102978,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 1528
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Windows Update",
+      "param2": "stopped",
+      "Binary": "770075006100750073006500720076002F0031000000"
+    }
+  }
+}
+Record 102979
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:30:38.177458Z"
+        }
+      },
+      "EventRecordID": 102979,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 7008
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Windows Modules Installer",
+      "param2": "running",
+      "Binary": "540072007500730074006500640049006E007300740061006C006C00650072002F0034000000"
+    }
+  }
+}
+Record 102980
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:31:28.021835Z"
+        }
+      },
+      "EventRecordID": 102980,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Diagnostic System Host",
+      "param2": "stopped",
+      "Binary": "570064006900530079007300740065006D0048006F00730074002F0031000000"
+    }
+  }
+}
+Record 102981
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:32:05.756959Z"
+        }
+      },
+      "EventRecordID": 102981,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "AppX Deployment Service (AppXSVC)",
+      "param2": "running",
+      "Binary": "41007000700058005300760063002F0034000000"
+    }
+  }
+}
+Record 102982
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:32:06.303903Z"
+        }
+      },
+      "EventRecordID": 102982,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Client License Service (ClipSVC)",
+      "param2": "running",
+      "Binary": "43006C00690070005300560043002F0034000000"
+    }
+  }
+}
+Record 102983
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:32:06.725710Z"
+        }
+      },
+      "EventRecordID": 102983,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Diagnostic System Host",
+      "param2": "running",
+      "Binary": "570064006900530079007300740065006D0048006F00730074002F0034000000"
+    }
+  }
+}
+Record 102984
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:32:40.507352Z"
+        }
+      },
+      "EventRecordID": 102984,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Windows Modules Installer",
+      "param2": "stopped",
+      "Binary": "540072007500730074006500640049006E007300740061006C006C00650072002F0031000000"
+    }
+  }
+}
+Record 102985
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:35:42.806403Z"
+        }
+      },
+      "EventRecordID": 102985,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "App Readiness",
+      "param2": "stopped",
+      "Binary": "410070007000520065006100640069006E006500730073002F0031000000"
+    }
+  }
+}
+Record 102986
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:36:37.869520Z"
+        }
+      },
+      "EventRecordID": 102986,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2488
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Network Setup Service",
+      "param2": "running",
+      "Binary": "4E0065007400530065007400750070005300760063002F0034000000"
+    }
+  }
+}
+Record 102987
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:36:47.322598Z"
+        }
+      },
+      "EventRecordID": 102987,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2016
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Remote Registry",
+      "param2": "running",
+      "Binary": "520065006D006F0074006500520065006700690073007400720079002F0034000000"
+    }
+  }
+}
+Record 102988
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:36:50.853874Z"
+        }
+      },
+      "EventRecordID": 102988,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 4812
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Remote Registry",
+      "param2": "stopped",
+      "Binary": "520065006D006F0074006500520065006700690073007400720079002F0031000000"
+    }
+  }
+}
+Record 102989
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:37:06.338728Z"
+        }
+      },
+      "EventRecordID": 102989,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2488
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Client License Service (ClipSVC)",
+      "param2": "stopped",
+      "Binary": "43006C00690070005300560043002F0031000000"
+    }
+  }
+}
+Record 102990
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:37:06.729325Z"
+        }
+      },
+      "EventRecordID": 102990,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2488
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "AppX Deployment Service (AppXSVC)",
+      "param2": "stopped",
+      "Binary": "41007000700058005300760063002F0031000000"
+    }
+  }
+}
+Record 102991
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Service Control Manager",
+          "Guid": "{555908d1-a6d7-4695-8e1e-26931d2012f4}",
+          "EventSourceName": "Service Control Manager"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 7036
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x8080000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:39:29.948951Z"
+        }
+      },
+      "EventRecordID": 102991,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 656,
+          "ThreadID": 2488
+        }
+      },
+      "Channel": "System",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "param1": "Network Setup Service",
+      "param2": "stopped",
+      "Binary": "4E0065007400530065007400750070005300760063002F0031000000"
+    }
+  }
+}

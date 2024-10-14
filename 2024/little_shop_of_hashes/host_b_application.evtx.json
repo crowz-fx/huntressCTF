@@ -1,0 +1,96 @@
+Record 12970
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Search-ProfileNotify",
+          "Guid": "{FC6F77DD-769A-470E-BCF9-1B6555A118BE}",
+          "EventSourceName": "Windows Search Service Profile Notification"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 5
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x80000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:31:12.787200Z"
+        }
+      },
+      "EventRecordID": 12970,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 0,
+          "ThreadID": 0
+        }
+      },
+      "Channel": "Application",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "User": "EC2AMAZ-DMS53EU\\Niko",
+      "Binary": ""
+    }
+  }
+}
+Record 12971
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Search-ProfileNotify",
+          "Guid": "{FC6F77DD-769A-470E-BCF9-1B6555A118BE}",
+          "EventSourceName": "Windows Search Service Profile Notification"
+        }
+      },
+      "EventID": {
+        "#attributes": {
+          "Qualifiers": 16384
+        },
+        "#text": 5
+      },
+      "Version": 0,
+      "Level": 4,
+      "Task": 0,
+      "Opcode": 0,
+      "Keywords": "0x80000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2024-10-01T20:38:51.042368Z"
+        }
+      },
+      "EventRecordID": 12971,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 0,
+          "ThreadID": 0
+        }
+      },
+      "Channel": "Application",
+      "Computer": "EC2AMAZ-DMS53EU",
+      "Security": null
+    },
+    "EventData": {
+      "User": "EC2AMAZ-DMS53EU\\DeeDee",
+      "Binary": ""
+    }
+  }
+}

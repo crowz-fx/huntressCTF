@@ -50,10 +50,10 @@ grep "FailureReason" security.evtx.json | sort | uniq -c
 ### What is the name of the offensive security tool that was used to gain initial access?
 
 ```
-
+psexec
 ```
 
-### How many unique enumeration commands were run with net.exe?
+### How many unique enumeration commands were run with?
 
 ```
 
