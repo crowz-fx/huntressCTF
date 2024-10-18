@@ -26,3 +26,6 @@ Go back and complete or to actually do
 - [1200_transmissions](2024/1200_transmissions/) - will come back
 - [echo_chamber](2024/echo_chamber/) - will come back
 - [sekiro](2024/sekiro.md) - will come back
+- [the_void](2024/the_void.md) - will come back
+- [baby_buffer_overflow](2024/baby_buffer_overflow/) - will come back
+- [moveable](2024/MOVEable/) - will come back
