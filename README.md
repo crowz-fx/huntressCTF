@@ -23,3 +23,6 @@ Go back and complete or to actually do
 - [gocrackme3](2024/gocrackme3/) - do more digging like gocrackme2
 - [x-ray](2024/xray/) - need to do some more digging
 - [litte_shop_of_hashes](2024/little_shop_of_hashes/) - missing the last one, again something dumb
+- [1200_transmissions](2024/1200_transmissions/) - will come back
+- [echo_chamber](2024/echo_chamber/) - will come back
+- [sekiro](2024/sekiro.md) - will come back
