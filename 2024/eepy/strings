@@ -1,0 +1,202 @@
+!This program cannot be run in DOS mode.
+.text
+`.data
+.rdata
+@.pdata
+@.xdata
+@.bss
+.idata
+.CRT
+.tls
+.reloc
+8MZu
+HcP<H
+D$ H
+AUATUWVSH
+D$ L
+[^_]A\A]
+[^_]A\A]
+|$PD
+D$0I
+|$(H
+|$P1
+D$`H
+ATSH
+T$XL
+D$`L
+L$hH
+ATUWVSH
+PHc=
+T$ A
+P[^_]A\
+P[^_]A\
+L$ H
+T$8A
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+D$ H
+L$ H
+L$ H
+CCG 
+	w:H
+ A\H
+ATWVSH
+([^_A\H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZu	
+HcA<H
+ATVSH
+9MZuW
+tNHcA<H
+ [^A\
+ [^A\
+:MZI
+tTIcB<L
+9MZu
+t	HcA<
+9MZuL
+tCHcA<H
+@' t	M
+9MZu
+9MZI
+tKIcA<L
+;MZA
+tSIcK<L
+QPH=
+AWAVAUATWVSH
+Hc@<L
+D$0 
+D$hI
+T$HL
+\$PA
+L$@L
+D$dH
+t$hH
+T$|L
+t$hH
+t$hH
+t$hH
+t$hH
+t$XL
+\$PH
+|$XL
+\$hL
+D$0 
+D$ d
+D$0 
+D$0 
+D$ ,
+D$0 
+D$0 
+D$0 
+D$ X
+[^_A\A]A^A_]
+ATE1
+tKE1
+8[A\
+Ntdll
+NtContinue
+Advapi32
+SystemFunction032
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+http://supermegasus.huntress.local/c2
+Unknown error
+Argument domain error (DOMAIN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Argument singularity (SIGN)
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 10-win32 20220113
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 10-win32 20220113
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 9.3-win32 20200320
+GCC: (GNU) 10-win32 20220113
+CreateEventW
+CreateTimerQueue
+CreateTimerQueueTimer
+DeleteCriticalSection
+DeleteTimerQueue
+EnterCriticalSection
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+RtlCaptureContext
+SetEvent
+SetUnhandledExceptionFilter
+Sleep
+TlsGetValue
+VirtualProtect
+VirtualQuery
+WaitForSingleObject
+__C_specific_handler
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_commode
+_fmode
+_initterm
+_onexit
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+vfprintf
+InternetCloseHandle
+InternetOpenA
+InternetOpenUrlA
+KERNEL32.dll
+msvcrt.dll
+WININET.dll

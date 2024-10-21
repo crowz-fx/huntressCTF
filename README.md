@@ -29,3 +29,11 @@ Go back and complete or to actually do
 - [the_void](2024/the_void.md) - will come back
 - [baby_buffer_overflow](2024/baby_buffer_overflow/) - will come back
 - [moveable](2024/MOVEable/) - will come back
+- [eepy](2024/eepy/) - will come back
+- [y2j]() - not sure it's released yet?
+- [stack_it]() - not sure it's released yet?
+- [eco-friendly]() - not sure it's released yet?
+- [backdoored_splunk_2](2024/backdoored_splunk_2/) - not even looked at yet
+- [strive_marish_leadman_typecdr](2024/strive_marish_leadman_typecdr.md) - not even looked at yet
+- [helpfuldesk](2024/helpfuldesk.md) - not even looked at yet
+- [permission_to_proxy](2024/permission_to_proxy.md) - not looked at yet
