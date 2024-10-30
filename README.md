@@ -30,10 +30,21 @@ Go back and complete or to actually do
 - [baby_buffer_overflow](2024/baby_buffer_overflow/) - will come back
 - [moveable](2024/MOVEable/) - will come back
 - [eepy](2024/eepy/) - will come back
-- [y2j]() - not sure it's released yet?
-- [stack_it]() - not sure it's released yet?
-- [eco-friendly]() - not sure it's released yet?
+- [y2j]() - will come back
+- [stack_it]() - will come back
+- [eco-friendly]() - will come back
 - [backdoored_splunk_2](2024/backdoored_splunk_2/) - not even looked at yet
 - [strive_marish_leadman_typecdr](2024/strive_marish_leadman_typecdr.md) - not even looked at yet
 - [helpfuldesk](2024/helpfuldesk.md) - not even looked at yet
 - [permission_to_proxy](2024/permission_to_proxy.md) - not looked at yet
+- [rustline]() - not looked at
+- [plantopia]() - not looked at
+- [knights quest]() - not looked at
+- [ancient fossil]() - not looked at
+- [pillow fight]() - not looked at
+- [thats life]() - not looked at
+- [in plain sight]() - not looked at
+- [rusty bin]() - not looked at
+- [revenge of the disctoun programming devices]() - not looked at
+- [ping me]() - not looked at
+- [time will tell]() - not looked at
