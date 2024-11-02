@@ -48,3 +48,5 @@ Go back and complete or to actually do
 - [revenge of the disctoun programming devices]() - not looked at
 - [ping me]() - not looked at
 - [time will tell]() - not looked at
+- [zippy]() - not looked at
+- [palimpsest]() - not looked at
